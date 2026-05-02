@@ -1,0 +1,11 @@
+# ignore node modules
+node_modules
+backend/node_modules
+frontend/node_modules
+
+# ignore env files
+.env
+backend/.env
+
+# optional (good practice)
+.DS_Store
